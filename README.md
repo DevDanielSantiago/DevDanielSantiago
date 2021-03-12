@@ -1,0 +1,7 @@
+- 👋 Olá, Eu sou o @DevDanielSantiago.
+- :books: Estou cursando atualmente Sistemas de Informação no Centro Universitário do Norte (UNINORTE);
+- :house: Moro em Manaus/AM
+- 👀 Sou interessado em Tecnologias para Web.
+- 🌱 Estou atualmente aprendendo mais sobre essas tecnologias.
+- 💞️ Estou procurando colaborar com a comunidade Javascript e Typescript.
+- 📫 Como me encontrar? Em breve...
